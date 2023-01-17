@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(225, 209, 228);
+    color: rgb(98, 94, 94);
+}
+
+h2{
+    background-color: rgb(239, 217, 106);
+}
+
+h1{
+    color: rgb(82, 152, 222);
+    font-style: italic;
+}
+
+span{
+    color: rgb(88, 129, 170);
+    font-style: italic;
+}
+
+dl p{
+    font-weight: bold;
+}
+
+dt{
+    margin-left: 1.5em;
+}
